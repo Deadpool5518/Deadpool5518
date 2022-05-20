@@ -2,7 +2,7 @@
 - 👀 eu tenho interesse em pensamento computacional
 - 📧guilherme.pabisda.silva@escola.pr.gov.br
 - 💻 programador
-- 🇧🇷 brazilian
+- 🇧🇷 brasil
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 	
 <!---
